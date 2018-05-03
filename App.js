@@ -1,7 +1,7 @@
 // @flow
 import React, { Component } from "react"
 import { StackNavigator, TabNavigator } from "react-navigation"
-import { ScrollView, StyleSheet, Button, View, WebView } from "react-native"
+import { ScrollView, StyleSheet, Button, View } from "react-native"
 
 type MainProps = {}
 
